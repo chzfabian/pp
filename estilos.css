@@ -1,16 +1,17 @@
 body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background-color: #a01999;
+    background-color: #070707;
+    background-image: url("../favicon/imgbg.jpg.jpg");
 
 }
 header{
     height: 65px;
-    background-color: #000000;
-    color: white;
+    background-color: #a21111;
+    color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
-    padding-left: 25px;
+    padding-left: 805px;
 }
 .cara{
     border-radius: 500px;
@@ -27,7 +28,7 @@ header{
     color: white;
     /* padding-top: 10%; */
 }
-.caja-central{
+.caja-central()
     margin-top: 10%;
     width: 50%;
     display: flex;
